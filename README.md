@@ -1,6 +1,6 @@
-								#####################################################################
-								# Original Repo: https://github.com/bestmomo/laravel5-3-example.git #
-								#####################################################################
+#####################################################################
+# Original Repo: https://github.com/bestmomo/laravel5-3-example.git #
+#####################################################################
 
 * type `git clone https://github.com/syafiqazwan/testBlog.git testBlog` to clone the repository 
 * type `cd testBlog`
@@ -74,6 +74,6 @@ Then migrate and seed :
 
 You can then use PHPUnit
 
-								#####################################################################
-								# Original Repo: https://github.com/bestmomo/laravel5-3-example.git #
-								#####################################################################
+#####################################################################
+# Original Repo: https://github.com/bestmomo/laravel5-3-example.git #
+#####################################################################
